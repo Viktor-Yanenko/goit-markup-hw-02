@@ -1,0 +1,157 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.logo-web {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.16667;
+    color: #4d5ae5;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.logo-studio{
+    font-family: "Raleway",sans-serif;
+    font-size: 18px;
+    line-height: 1.16667;
+    color: #2e2f42;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.nav-bar {
+    font-weight: 500;
+    color: #2e2f42;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.nav-bar:hover,
+.nav-bar:focus {
+    color: #404bbf;
+}
+
+.contacts {
+    font-size: 16px;
+    color: #434455;
+    line-height: 1.5;
+}
+
+.contacts:hover,
+.contacts:focus {
+    color: #404bbf;
+}
+
+.section-title{
+    background-color: #2e2f42;
+}
+
+.header-1 {
+    font-weight: 700;
+    font-size: 56px;
+    text-align: center;
+    color: #fff;
+    line-height: 1.07143;
+}
+
+.order-btn {
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;    
+    background-color: #4d5ae5;
+    cursor: pointer;
+    line-height: 1.5;
+}
+
+.order-btn:hover,
+.order-btn:active {
+    background-color: #404bbf;
+}
+
+.adv-header {
+    font-weight: 500;
+    font-size: 20px;
+    color: #2e2f42;
+    line-height: 1.2;
+}
+
+.adv-text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.team {
+    background-color: #f4f4fd;
+}
+
+.team-header{
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #2e2f42;
+    line-height: 1.11111;
+}
+
+.team-name {
+    font-weight: 500;
+    font-size: 20px;    
+    line-height: 1.2;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.team-text {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.portf-header {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.portf-service {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+
+.portf-serv-type {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.footer {
+    background-color: #2e2f42;
+}
+
+.logo-studio-foot {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.16667;
+    color: #f4f4fd;
+    font-weight: 700;
+    text-transform: uppercase;        
+}
+
+.foot-text {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #f4f4fd;
+}
